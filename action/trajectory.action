@@ -1,0 +1,10 @@
+geometry_msgs/PoseStamped[] waypoints
+---
+float32 x
+float32 y
+float32 az
+---
+float32 x
+float32 y
+float32 az
+float32 eta
